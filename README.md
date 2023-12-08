@@ -75,4 +75,4 @@ O script de criação das tabelas necessárias estão dentro do projeto na pasta
  [Oracle BD](https://www.oracle.com/br/database/)  
 
  ### 📺 Link da apresentação
- [Youtube]([https://git-scm.com/](https://www.youtube.com/watch?v=hBKUweneIzM)https://www.youtube.com/watch?v=hBKUweneIzM)
+ [Youtube](https://www.youtube.com/watch?v=hBKUweneIzM)
